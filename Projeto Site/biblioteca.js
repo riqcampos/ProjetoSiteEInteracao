@@ -8,10 +8,6 @@ function onClickMenu(){
 
 }
 
-/* corrimento do formulario */
-
-
-// jogoda cobrinha // 
 
 
 
